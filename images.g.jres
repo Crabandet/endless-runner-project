@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQOABYAAAAAAAAAAPD/AAAAAAAAAAAAAP8AAAAAAAAA//8A8A8AAAAAAADwD/AP8AAAAADw/wD/AAD/8AAAAAD/AAAPAADw8AAAAPAPAAAPAADw//////8AAAAPAADw8AAAAPAAAAD/AAD/8AAAAP8AAADwD/AP8AAA8A8AAAAA//8A8AAA8P//AAAAAAAA/wAAAAAAAAAAAADwDwAAAAAAAAAAAPD/AAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "weon"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
